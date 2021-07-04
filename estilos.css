@@ -1,0 +1,19 @@
+body {
+    background-color: #FFD700; 
+    color:black;
+}
+
+.oro {
+    color: #FFD700;
+}
+
+.footer p a {
+    text-decoration:none;
+    color: #FFD700;
+}
+
+.footer p a:hover {
+    text-decoration:none;
+    color: #796910;
+}
+
